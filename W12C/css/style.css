@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+}
+input {
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+    padding: 5px 10px;
+}
+form {
+    display: inline-block;
+}
